@@ -1,5 +1,4 @@
 # hello-world
-first github project
 Hello World,
 
-I'm studying AI/ML/data science and sharing my projects here.
+I'm studying AI/ML/data science and sharing my projects here. This is my first github project!
